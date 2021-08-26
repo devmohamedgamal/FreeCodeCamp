@@ -1,0 +1,77 @@
+﻿.body{
+    margin:0;
+}
+
+
+.header {
+    background-color: #0a0a23;
+    text-align: center;
+    height: 35px;
+    color: white;
+    font-size: 30px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    width:100%;
+
+}
+.btn1 {
+    font-family:'Roboto Mono', monospace;
+    background-color: lightgray;
+    width: 500px;
+    height: 50px;
+    margin-left: 32%;
+    margin-top: 50px;
+    font-size: 25px;
+    font-style: oblique;
+    border: solid;
+    cursor: pointer;
+}
+.btn2 {
+    font-family: 'Roboto Mono', monospace;
+    background-color: lightgray;
+    width: 500px;
+    height: 50px;
+    margin-left: 32%;
+    margin-top: 10px;
+    font-size: 25px;
+    font-style: oblique;
+    border: solid;
+    cursor: pointer;
+}
+.or{
+    text-align:center;
+}
+.email {
+    border: solid;
+    margin-left: 32%;
+    width: 36.3%;
+    height: 46px;
+    font-family: 'Roboto Mono', monospace;
+    font-size:25px;
+}
+.btn3 {
+    background-color: lightgray;
+    width: 500px;
+    height: 50px;
+    margin-left: 32%;
+    margin-top: 10px;
+    font-size: 25px;
+    font-style: oblique;
+    border: solid;
+    cursor: pointer;
+}
+.text{
+    width:600px;
+    margin-left:370px;
+    color:black;
+}
+/*.test{
+    width:100%;
+    height:200px;
+    background-color:blue;
+    margin-top:0%;
+    margin:0px;
+}
+    */
